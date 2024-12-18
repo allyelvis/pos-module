@@ -27,7 +27,7 @@ sudo -u postgres psql -c "GRANT ALL PRIVILEGES ON DATABASE pos_db TO pos_user;"
 
 # Clone the repository
 echo "Cloning the repository..."
-git clone https://github.com/your-repo/pos-system.git
+git clone https://github.com/allyelvis/pos-system.git
 cd pos-system
 
 # Set up Python virtual environment
